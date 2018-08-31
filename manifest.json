@@ -11,7 +11,5 @@
         "default_icon": "qr-code.png",
         "default_popup": "popup.html"
     },
-    "permissions": {
-        "alert": "allow"
-    }
+    "permissions": []
 }
