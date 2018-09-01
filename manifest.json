@@ -2,6 +2,8 @@
     "manifest_version": 2,
     "name": "QR Convertor",
     "version": "1.0",
+    "author": "Satyam Sharma",
+    "description": "The Extension allows you to create a qr code based on the Text which can be transported to any device. The applicatin uses API calls from goqr.me",
     "icons": {
         "128": "qr-code (1).png",
         "32": "qr-code (2).png",
